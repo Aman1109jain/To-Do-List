@@ -1,3 +1,4 @@
+//This is a test
 const taskForm = document.getElementById("taskForm");
 const pendingTasks = document.getElementById("pendingTasks");
 const completedTasks = document.getElementById("completedTasks");
